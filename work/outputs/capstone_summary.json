@@ -1,0 +1,10 @@
+{
+  "project": "Applied Search Intelligence: Content Decay Prioritization",
+  "author": "Hamza Imran",
+  "sample_size": 30000,
+  "clients": 32,
+  "baseline_precision_at_50": 0.4,
+  "random_forest_precision_at_50": 0.7,
+  "lift_multiplier": 1.7499999999999998,
+  "roc_auc": 0.605
+}
