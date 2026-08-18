@@ -1,0 +1,13 @@
+{
+  "total_evaluated_urls": 30000,
+  "top50_precision": 0.92,
+  "baseline_precision_lift": 3.8333333333333335,
+  "high_priority_candidates": 13527,
+  "action_distribution": {
+    "EXPAND_CONTENT_AND_INTENT": 10152,
+    "GENERAL_CONTENT_OPTIMIZATION": 9370,
+    "ROUTINE_MONITORING": 5512,
+    "REFRESH_METADATA_AND_SNIPPET": 4897,
+    "STALE_HIGH_TRAFFIC_REVIEW": 69
+  }
+}
