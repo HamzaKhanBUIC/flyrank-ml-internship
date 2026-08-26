@@ -1,20 +1,21 @@
 # Applied Search Intelligence: Content Decay Prioritization
+
 ### FlyRank Machine Learning Internship Capstone
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HamzaKhanBUIC/flyrank-ml-internship/blob/main/work/notebooks/capstone.ipynb?flush_cache=true)
 [![Deployed Research Paper](https://img.shields.io/badge/Research_Paper-Live_on_GitHub_Pages-238636?style=flat&logo=github)](https://hamzakhanbuic.github.io/flyrank-ml-internship/)
 [![CI Smoke Tests](https://github.com/HamzaKhanBUIC/flyrank-ml-internship/actions/workflows/smoke-test.yml/badge.svg)](https://github.com/HamzaKhanBUIC/flyrank-ml-internship/actions)
 
-> **Live Deployed Research Paper:** [https://hamzakhanbuic.github.io/flyrank-ml-internship/](https://hamzakhanbuic.github.io/flyrank-ml-internship/)  
-> **Author:** Hamza Imran  
-> **Project Lane:** Refresh & Content Opportunity Scoring  
-> **Dataset:** 30,000 anonymized enterprise URLs across 32 client domains  
+- **Live Deployed Research Paper:** [https://hamzakhanbuic.github.io/flyrank-ml-internship/](https://hamzakhanbuic.github.io/flyrank-ml-internship/)  
+- **Author:** Hamza Imran  
+- **Focus:** Refresh and Content Opportunity Scoring  
+- **Dataset:** 30,000 anonymized enterprise URLs across 32 client domains  
 
 ---
 
-## 🌟 Executive Summary & Headline Results
+## Executive Summary & Headline Results
 
-Enterprise content libraries experience continuous, silent organic search traffic erosion as published pages age and search competition shifts. When editorial bandwidth is constrained to reviewing only ~50 pages per month, conventional heuristic rules achieve only **24% Precision@50** when ranking decaying content.
+Enterprise content libraries experience continuous organic search traffic erosion as published pages age and search competition shifts. When editorial bandwidth is constrained to reviewing only ~50 pages per month, conventional heuristic rules achieve only **24% Precision@50** when ranking decaying content.
 
 In this capstone research project, we developed a probability-calibrated Random Forest ranking engine trained on 30,000 pseudonymized URLs across 32 enterprise clients. Evaluated under strict Grouped Client-Holdout cross-validation to prevent tenant memorization and data leakage:
 
@@ -25,7 +26,7 @@ In this capstone research project, we developed a probability-calibrated Random 
 
 ---
 
-## 📂 Completed Assignment Notebooks
+## Completed Assignment Notebooks
 
 Every weekly milestone is fully executed top-to-bottom with live outputs and zero data leakage:
 
@@ -44,7 +45,7 @@ Every weekly milestone is fully executed top-to-bottom with live outputs and zer
 
 ---
 
-## 🛠️ Reproducibility & Local Execution
+## Reproducibility & Local Execution
 
 To run the full end-to-end Python pipeline locally:
 
@@ -57,6 +58,6 @@ python scripts/run_all.py
 
 ---
 
-## 📚 Acknowledgments & Data Credit
+## Acknowledgments & Data Credit
 
 Built on the **FlyRank ML Internship dataset** provided by [FlyRank AI](https://flyrank.ai) (Enterprise Search Intelligence telemetry, release `v20260703`). Data credit is gratefully acknowledged.
