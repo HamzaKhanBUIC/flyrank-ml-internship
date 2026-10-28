@@ -2,7 +2,7 @@
 
 > Ranks a 30,000-URL content library so an editor who can review about 50 pages a month sees the pages most likely to be losing search traffic first.
 
-**Status:** Completed internship capstone (FlyRank ML internship, 2026) · Built from FlyRank's [`flyrank-ml-internship-starter`](https://github.com/flyrank-bih/flyrank-ml-internship-starter) template and dataset · Author: Hamza Imran
+**Status:** Completed capstone from my Machine Learning Engineering internship at FlyRank (Jun–Sep 2026, remote) · Built from FlyRank's [`flyrank-ml-internship-starter`](https://github.com/flyrank-bih/flyrank-ml-internship-starter) template and dataset · Author: Hamza Imran
 **Demo:** [Research paper (GitHub Pages)](https://hamzakhanbuic.github.io/flyrank-ml-internship/) · [Capstone notebook in Colab](https://colab.research.google.com/github/HamzaKhanBUIC/flyrank-ml-internship/blob/main/work/notebooks/capstone.ipynb?flush_cache=true)
 
 [![CI Smoke Tests](https://github.com/HamzaKhanBUIC/flyrank-ml-internship/actions/workflows/smoke-test.yml/badge.svg)](https://github.com/HamzaKhanBUIC/flyrank-ml-internship/actions)
